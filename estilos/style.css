@@ -51,13 +51,13 @@ section#redes img {
     width: 60px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.345);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.497);
 }
 
 section#redes img:hover {
     border: 1px solid white;
     transform: translate(-3px, -3px);
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.685);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.796);
     transition: transform 0.2s, border 0.3s;
 }
 
